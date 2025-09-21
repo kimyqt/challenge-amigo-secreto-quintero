@@ -16,7 +16,11 @@ Fue desarrollado como práctica de lógica de programación del programa Princip
 6. Si deseas crear una nueva lista y un nuevo juego, refresca la página (F5).
 
 ## Recuerda que:
-  - El juego NO permite agregar entradas vacías.
-  - El juego NO permite sortear si la lista está vacía.
+- El juego NO permite agregar entradas vacías.
+- El juego NO permite sortear si la lista está vacía.
+
+## Autoría: 
+- Equipo Alura Latam
+- Kimberly Quintero T.
 
 ## ¡Gracias, buen juego! :D
